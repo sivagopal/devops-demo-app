@@ -39,7 +39,7 @@ $conn->close(); ?>
 
     <title>DevOps Demo Application</title>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS should work -->
     <link href="bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
